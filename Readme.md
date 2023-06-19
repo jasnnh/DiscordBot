@@ -11,3 +11,5 @@ Example usage: (Requires Nodejs to be installed to run)
 "node.exe botex.js"
 
 Requires a Token authentication key to run, you can get this from Discord Developer portal.
+
+![Screenshot](https://github.com/jasnnh/DiscordBot/blob/main/Discordbot.PNG)
